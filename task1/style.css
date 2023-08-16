@@ -1,0 +1,63 @@
+.navbar{
+    width: 1200px;
+    height: 150px;
+    display: flex;
+    font-style: bold;
+    justify-content: space-between;
+    align-items: center;
+    background-color:white;
+    padding: 10px 10px;
+}
+#logo{
+    padding-right: 50px;
+}
+.devmain{
+    
+    display: flex;
+    color: #000;
+    background: #F9F9F9;
+}
+.text{
+    color: #000;
+    font-family: Poppins;
+    font-size: 35.726px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 61.91px;
+}
+
+.img2{
+     margin-left: 250px;
+    }
+
+.dev2{
+    width: 550px;
+height: 120px;
+flex-shrink: 0;
+}
+#text2{
+    color: #9E9DA2;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 28px
+}
+.Dbutton{
+    display: flex;
+}
+.div3{
+    width: 1280px;
+height: 166px;
+flex-shrink: 0;
+border-radius: 10px;
+background: #75BF7A;
+}
+.div3t{
+    color: #FFF;
+font-family: Gilroy;
+font-size: 24.601px;
+font-style: normal;
+font-weight: 600;
+line-height: 28px;
+}
